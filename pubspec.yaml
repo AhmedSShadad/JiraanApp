@@ -1,0 +1,56 @@
+name: jeraan_project
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  carousel_slider:
+  get:
+  animated_text_kit:
+  firebase_core: 
+  cloud_firestore:
+  firebase_messaging:
+  image_picker:
+  firebase_storage: 
+  fluttertoast: ^8.0.9
+  firebase_image: 
+  firebase_auth: 
+  location: 
+  geodesy:
+  shared_preferences:
+  provider:
+  # geocoder: ^0.2.1
+  geocode: ^1.0.2
+  clipboard:
+  flutter_datetime_picker:
+  flutter_easyloading:
+  url_launcher:
+  easy_localization:
+  firebase_core_platform_interface: 4.5.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.12.0"
+
+flutter_icons:
+    android: "launcher_icon"
+    ios: true
+    image_path: "images/icon.png"  
+
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - images/
+    - home_images/

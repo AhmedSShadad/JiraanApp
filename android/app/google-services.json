@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080305329567",
+    "project_id": "jeraanapp-7f69a",
+    "storage_bucket": "jeraanapp-7f69a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080305329567:android:42bf18581ddb40d82309aa",
+        "android_client_info": {
+          "package_name": "com.JiraanApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080305329567-a1cvkenib70cpbcf1c98egji6rf535ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABd3KqjTh-hn3exyqVv_VJGeGQECdrgfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080305329567-a1cvkenib70cpbcf1c98egji6rf535ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
